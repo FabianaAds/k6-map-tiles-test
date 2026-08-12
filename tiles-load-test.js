@@ -9,9 +9,6 @@ export let options = {
   ],
 };
 
-// ----------------------
-// URL DO TILE (AJUSTE!)
-// ----------------------
 const TILE_URL = "https://seuservico.com/tiles/{z}/{x}/{y}.png";
 
 // Função para gerar tiles aleatórios simulando pan + zoom
